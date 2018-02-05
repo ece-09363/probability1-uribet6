@@ -1,0 +1,7 @@
+# this file defines the `probstats` environment for `conda`
+
+name: probstats
+
+dependencies:
+  - python=3.4
+  - anaconda
